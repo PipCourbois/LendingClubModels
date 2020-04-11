@@ -21,6 +21,7 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
   - Command to start notebook is: python -m notebook
 - [ ] Docker image within git repository 
   - [ ] Docker tutorial
+  - [ ] Python data-science basic image
 - [ ] Start blog post and notes -- not started
 - [ ] EDA -- not started
 - [ ] Identify target variable -- keep it simple -- not started
