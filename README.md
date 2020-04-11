@@ -16,7 +16,8 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
 - [x] Download [LendingClub data](https://www.kaggle.com/wendykan/lending-club-loan-data) -- Q4 data completed
   - [x] [data dictionary](https://docs.google.com/spreadsheets/d/16fqmVyjloON5Efo51wHtyNodsNwEPvSzkYsUP0QoZm4/edit#gid=1283882092)
   - [x] [data sample](https://docs.google.com/spreadsheets/d/13wa-cJcNWSenJAEBTVo9u0DpoiBe7ruVIAiPA2sDnyE/edit#gid=421910670)
-- [ ] Jupyter Notebook on Mac -- not started
+- [x] Jupyter Notebook on Mac
+  - Because Groupon used brew, I have [this](https://stackoverflow.com/questions/45495753/jupyter-not-found-after-pip-install-jupyter) problem.  Command to start notebook is: python -m notebook
 - [ ] Docker image within git repository -- not started
 - [ ] Start blog post and notes -- not started
 - [ ] EDA -- not started
