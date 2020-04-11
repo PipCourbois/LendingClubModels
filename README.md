@@ -14,7 +14,7 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
 
 #### Steps and statuses
 - [x] Download [LendingClub data](https://www.kaggle.com/wendykan/lending-club-loan-data) -- Q4 data completed
-  - [x] [data dictionary](https://docs.google.com/spreadsheets/d/16fqmVyjloON5Efo51wHtyNodsNwEPvSzkYsUP0QoZm4/edit#gid=1283882092_
+  - [x] [data dictionary](https://docs.google.com/spreadsheets/d/16fqmVyjloON5Efo51wHtyNodsNwEPvSzkYsUP0QoZm4/edit#gid=1283882092)
   - [x] [data sample](https://docs.google.com/spreadsheets/d/13wa-cJcNWSenJAEBTVo9u0DpoiBe7ruVIAiPA2sDnyE/edit#gid=421910670)
 - [ ] Jupyter Notebook on Mac -- not started
 - [ ] Docker image within git repository -- not started
