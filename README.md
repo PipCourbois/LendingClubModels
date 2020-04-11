@@ -13,7 +13,7 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
 1.  [Model interpretation](https://gilberttanner.com/blog/introduction-to-machine-learning-model-interpretation) - feature importance, partial dependencies, [Lime](https://github.com/marcotcr/lime), and [Shap](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
 
 #### Steps and statuses
-1.  Download [LendingClub data](https://www.kaggle.com/wendykan/lending-club-loan-data) -- Q4 data compoleted
+-[] Download [LendingClub data](https://www.kaggle.com/wendykan/lending-club-loan-data) -- Q4 data completed
 1.  Jupyter Notebook on Mac -- not started
 1.  Docker image within git repository -- not started
 1.  Start blog post and notes -- not started
