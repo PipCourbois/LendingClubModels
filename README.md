@@ -20,8 +20,11 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
   - Because Groupon used brew, I have [this](https://stackoverflow.com/questions/45495753/jupyter-not-found-after-pip-install-jupyter) problem.  
   - Command to start notebook is: python -m notebook
 - [ ] Docker image within git repository 
-  - [ ] Docker tutorial
-  - [ ] Python data-science basic image
+  - [x] Docker tutorial -- [Jupyter Docker Stacks user guide](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html) is fantastic.  
+  - [x] Python data-science basic image -- start with [jupyter/tensorflow-notebook](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#core-stacks)
+  - [ ] Run the jupyter/tensorflow-notebook 
+    - [ ] How to save a notebook into this github?
+    - [ ] import data, add data to github
 - [ ] Start blog post and notes -- not started
 - [ ] EDA -- not started
 - [ ] Identify target variable -- keep it simple -- not started
