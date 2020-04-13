@@ -23,11 +23,11 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
   - [x] Docker tutorial -- [Jupyter Docker Stacks user guide](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html) is fantastic.  
   - [x] Python data-science basic image -- start with [jupyter/tensorflow-notebook](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#core-stacks)
   - [x] Run the jupyter/tensorflow-notebook
-```
-docker run -p 8888:8888 jupyter/tensorflow-notebook:latest
-```
-  - [ ] How to save a notebook into this github?  use the -v command; search for -v [here](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html)
-  - [ ] import data, add data to github
+    ```
+    docker run -p 8888:8888 jupyter/tensorflow-notebook:latest
+    ```
+    - [ ] How to save a notebook into this github?  use the -v command; search for -v [here](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html)
+    - [ ] import data, add data to github
 - [ ] Start blog post and notes -- not started
 - [ ] EDA -- not started
 - [ ] Identify target variable -- keep it simple -- not started
