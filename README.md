@@ -33,5 +33,5 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
   - [x] import data, add data to github
 - [x] EDA -- not started
 - [ ] Start blog post and notes -- not started
-- [ ] Identify target variable -- keep it simple -- not started
+- [x] Identify target variable -- keep it simple -- not started
 - [ ] Feature engineering -- not started
