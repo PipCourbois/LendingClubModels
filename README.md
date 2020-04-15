@@ -26,9 +26,12 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
     ```
     docker run -p 8888:8888 jupyter/tensorflow-notebook:latest
     ```
-  - [ ] How to save a notebook into this github?  use the -v command; search for -v [here](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html)
-  - [ ] import data, add data to github
+  - [x] How to save a notebook into this github?  use the -v command; search for -v [here](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html)
+    ```
+    docker run -p 8888:8888 -v /Users/pcourbois/LendingClubModels:/home/jovyan/work jupyter/tensorflow-notebook:latest
+    ```
+  - [x] import data, add data to github
+- [x] EDA -- not started
 - [ ] Start blog post and notes -- not started
-- [ ] EDA -- not started
 - [ ] Identify target variable -- keep it simple -- not started
 - [ ] Feature engineering -- not started
