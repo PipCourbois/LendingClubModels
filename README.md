@@ -31,7 +31,7 @@ Learn to run Deep Models for predicting who will pay back loans using the Lendin
     docker run -p 8888:8888 -v /Users/pcourbois/LendingClubModels:/home/jovyan/work jupyter/tensorflow-notebook:latest
     ```
   - [x] import data, add data to github
-- [x] EDA -- not started
-- [ ] Start blog post and notes -- not started
+- [x] EDA 
+- [ ] Start blog post and notes -- [document](https://docs.google.com/document/d/1ajiJi5FAecmMmUji1miLS_6eZWg1vCs0UBfnUbldfTg/edit#heading=h.iaclh2cxd9tr)
 - [x] Identify target variable -- keep it simple -- not started
 - [ ] Feature engineering -- not started
